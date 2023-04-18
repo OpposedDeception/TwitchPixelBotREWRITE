@@ -6,6 +6,7 @@ import (
     "net/http"
     "errors"
     "io/ioutil"
+    "github.com/OpposedDeception/TwitchPixelBotREWRITE/Go/src"
     )
 
 
